@@ -1,4 +1,4 @@
-# High-Fidelity UI Design
+# UI Design and Prototyping
 
 ## Objective
 
